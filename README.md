@@ -64,7 +64,7 @@ Proyek ini dapat dikembangkan lebih lanjut dengan:
 
 ## 👨‍💻 Pembuat  
 Kode ini dibuat oleh:  
-**ANTABOGA DEVELOPER**  
+**QUINCY DEVELOPER**  
 Bagian dari proyek belajar pemrograman: *AA•PROJECTS - X RPL*.  
 
 ---  
